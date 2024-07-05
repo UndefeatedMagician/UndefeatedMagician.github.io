@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zijiang Liang | MPIC</title>
+    <link>https://UndefeatedMagician.github.io/author/zijiang-liang/</link>
+      <atom:link href="https://UndefeatedMagician.github.io/author/zijiang-liang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zijiang Liang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© BUPT 2024</copyright><lastBuildDate>Sat, 01 Oct 2022 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://UndefeatedMagician.github.io/images/icon_hu617423ca60b017e89d38e6d6f64feab9_278905_512x512_fill_lanczos_center_3.png</url>
+      <title>Zijiang Liang</title>
+      <link>https://UndefeatedMagician.github.io/author/zijiang-liang/</link>
+    </image>
+    
+    <item>
+      <title>Zijiang Liang</title>
+      <link>https://UndefeatedMagician.github.io/author/zijiang-liang/</link>
+      <pubDate>Sat, 01 Oct 2022 16:24:04 +0800</pubDate>
+      <guid>https://UndefeatedMagician.github.io/author/zijiang-liang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Transform Source-Channel Coding for Semantic Communications</title>
+      <link>https://UndefeatedMagician.github.io/publication/wireless-deep-video-semantic-transmission/</link>
+      <pubDate>Sat, 01 Oct 2022 16:24:04 +0800</pubDate>
+      <guid>https://UndefeatedMagician.github.io/publication/wireless-deep-video-semantic-transmission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Joint Source-Channel Decoding using Arithmetic Codes</title>
+      <link>https://UndefeatedMagician.github.io/publication/neural-joint-source-channel-decoding-using-arithmetic-codes/</link>
+      <pubDate>Wed, 01 Dec 2021 16:24:04 +0800</pubDate>
+      <guid>https://UndefeatedMagician.github.io/publication/neural-joint-source-channel-decoding-using-arithmetic-codes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
